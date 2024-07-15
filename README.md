@@ -5,7 +5,7 @@ This repo is based off of [0x1iii1ii's](https://github.com/0x1iii1ii/PPPwn-Luckf
 
 ### Install Dependencies
 Required:
-* [Luckfox-Pico SDK](https://github.com/LuckfoxTECH/luckfox-pico>)
+* [Luckfox-Pico SDK](https://github.com/LuckfoxTECH/luckfox-pico)
 * [Docker](https://www.docker.com/)
 
 ### Building an Alpine-Linux custom-rootfs
